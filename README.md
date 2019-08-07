@@ -1,4 +1,4 @@
-# Research-Papers-Data-Science-
+# Research-Papers PERSONAL COLLECTION 
 
 HERE YOU WILL FIND:
 Research papers for Data Science, Deep learning, Machine learning, Artificial Intelligence & Cloud computing 
